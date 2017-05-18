@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Feedback plugin by Plance\n"
+"POT-Creation-Date: 2015-10-21 08:32+0300\n"
+"PO-Revision-Date: 2015-10-21 08:32+0300\n"
+"Last-Translator: Pavel\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: /www/cms-free/wordpress/dev/wp-content/plugins/my-"
+"simple-feedback\n"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:33
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:34
+msgid "Feedback options"
+msgstr "Найстройки формы обратной связи"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:50
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:7
+msgid "Admin Email"
+msgstr "Email Администратора"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:51
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:13
+msgid "Admin Name"
+msgstr "Имя Администратора"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:52
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:19
+msgid "Noreply Email"
+msgstr "Noreply Email"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:53
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:25
+msgid "Noreply Name"
+msgstr "Noreply Имя"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:54
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:31
+msgid "Shortcode Name"
+msgstr "Название шорткода"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:55
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:40
+msgid "Message subject"
+msgstr "Тема сообщения"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:56
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:46
+msgid "Message template"
+msgstr "Шаблон сообщения"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:57
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:62
+msgid "Flash Message"
+msgstr "Флеш-сообщение пользователю"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:94
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.index.init.php:59
+msgid "{field} must not be empty"
+msgstr "Поле {field} не должно быть пустым"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:95
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.index.init.php:60
+msgid "{field} must be a email"
+msgstr "Поле {field} должно содержать правильный e-mail"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:96
+msgid "{field} does not match the required format"
+msgstr ""
+"Шорткод должен начинаться и заканчиваться на буквы, а содержать в себе "
+"буквы, цифры, тире и подчеркивания"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.admin.init.php:105
+msgid "Options updated"
+msgstr "Опции обновлены"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.index.init.php:34
+msgid "Your Name"
+msgstr "Ваше Имя"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.index.init.php:35
+msgid "Your Email"
+msgstr "Ваш Email"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.index.init.php:36
+msgid "Message"
+msgstr "Сообщение"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.index.init.php:37
+msgid "Bot"
+msgstr "Бот"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/class.index.init.php:61
+msgid "Fill verification field correctly"
+msgstr "Заполните проверочное поле правильно"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:2
+msgid "Feedback form options"
+msgstr "Найстройки формы обратной связи"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:35
+msgid "Use this shortcode in your posts or pages"
+msgstr ""
+"Чтобы отобразить форму обратной связи, используйте этот шорткод в тексте "
+"постов или страниц"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:52
+msgid "Use next pseudotag in above message:"
+msgstr ""
+"Используйте следующие псевдотеги в форме выше, чтобы сформировать сообщение."
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:53
+msgid "{name} - user name"
+msgstr "{name} - имя пользователя"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:54
+msgid "{email} - user email"
+msgstr "{email} - email пользователя"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/admin/form.php:55
+msgid "{message} - text message"
+msgstr "{message} - текст сообщения"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/index/form.php:13
+msgid "Your Name:"
+msgstr "Ваше Имя:"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/index/form.php:17
+msgid "Your Email:"
+msgstr "Ваш Email:"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/index/form.php:21
+msgid "Message:"
+msgstr "Сообщение:"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/index/form.php:26
+#, php-format
+msgid "Write in this field number \"%1$s\""
+msgstr "Впишите в это поле число \"%1$s\""
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-simple-feedback/app/view/index/form.php:29
+msgid "Send message"
+msgstr "отправить сообщение"
+
+#~ msgid "Template"
+#~ msgstr "Шаблон оформлеия письма"
+
+#~ msgid "Subject"
+#~ msgstr "Тема"
+
+#~ msgid "{subject} - subject form"
+#~ msgstr "{subject} - тема сообщения"
+
+#~ msgid "Subject:"
+#~ msgstr "Тема:"
